@@ -29,7 +29,7 @@ function Projects() {
         <section id="projects" className="section projects-section">
             <Container>
                 <p className="section-label">Portfolio</p>
-                <h2>ผลงานที่น่าสนใจ</h2>
+                <h2>ผลงานที่เคยทํา</h2>
 
                 <Row className="mt-4 g-4">
                     {projects.map((project, index) => (
